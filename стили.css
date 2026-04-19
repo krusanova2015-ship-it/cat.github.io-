@@ -1,0 +1,56 @@
+header {
+    background-color: #FFA8A8;
+    min-height: 170px;
+    display: flex;
+    gap: 36px;
+
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo {
+    width: 184px;
+    height: 72px;
+    background-color: #FF006F;
+}
+
+.housing {
+    width: 184px;
+    height: 72px;
+    background-color: #FF0000
+}
+
+.balooning {
+    width: 184px;
+    height: 72px;
+    background-color: #FF0000
+}
+
+.belling  {
+    width: 184px;
+    height: 72px;
+    background-color: #FF0000
+}
+
+.zeroing {
+    width: 184px;
+    height: 72px;
+    background-color: #FF00D0
+}
+
+.chipsing {
+    width: 184px;
+    height: 72px;
+    background-color: #FF00D0
+}
+
+div {
+    width: 400px;
+    height: 400px;
+    background-color: rgb(225, 119, 235);
+}
+
+.container {
+    display: flex;
+    gap: 39px;
+}
